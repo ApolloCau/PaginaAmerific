@@ -1,0 +1,48 @@
+html,
+body{
+    margin: 0%;
+    padding: 0%;
+
+}
+header{
+ background-color: rgba(0, 0, 0, 0,5);
+ background-image: url(./imagens/michal-kvac-vast-universe-small.jpg);
+ background-size: cover;
+ background-blend-mode: multiply;
+ font-family: 'Monoton', cursive;
+}
+header h1{
+    margin: 0%;
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+}
+header h4{
+    margin: 0%;
+    text-align: center;
+}
+nav{
+    text-align: center;
+    margin: 100px;
+    border-top: 1px solid rgba(255, 255, 255, 0.3)
+}
+nav ul{
+    margin: 0;
+    padding: 0;
+}
+nav ul li{
+    display: inline;
+    padding: 0 3%;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 5px;
+    display: inline-block;
+    border-radius: 10px;
+}
+nav ul li a:hover{
+    background-color: rgba(255, 255, 255, 0.3);
+    
+}

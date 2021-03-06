@@ -1,0 +1,16 @@
+section h3{
+  font-family: 'Monoton', cursive;
+      font-size: 15px;
+      text-align: center;
+}
+section h5{
+font-family: 'Monoton', cursive;
+font-size: 10px;
+text-align: center;
+}
+.about-img {
+  width: 200px;
+  height: 200px;
+border-radius: 50%;
+text-align: center;
+}
